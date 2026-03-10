@@ -4,9 +4,9 @@
 I pride myself on being able to solve problems, I use Kotlin & Jetack Compose to do just that!
 
 ## 🏫 Education
-University of Pretoria(Honours focused in AI and Software Development): 2026 - Present
-University of Pretoria(3rd year bridging course): 2025 - 2025
-Emeris Sandton(Bsc Computer Science: 2022 - 2024
+University of Pretoria(Honours focused in AI and Software Development): 2026 - Present <br>
+University of Pretoria(3rd year bridging course): 2025 - 2025 <br>
+Emeris Sandton(Bsc Computer Science: 2022 - 2024 <br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ratjatji-m-038394251/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ratjatjimalatji@gmail.com) 
